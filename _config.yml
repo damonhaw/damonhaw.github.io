@@ -1,4 +1,4 @@
 title: "The Workspace ONE Repository"
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: tomjoht/documentation-theme-jekyll
 color_scheme: "dark"
 search_enabled: true
